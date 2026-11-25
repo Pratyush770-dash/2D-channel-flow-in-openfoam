@@ -1,0 +1,4 @@
+cat > constant/momentumTransport << 'EOF'
+FoamFile { version 2.0; format ascii; class dictionary; object momentumTransport; }
+simulationType laminar;
+EOF
