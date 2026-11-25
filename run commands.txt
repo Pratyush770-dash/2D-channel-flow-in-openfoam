@@ -1,0 +1,5 @@
+blockMesh
+checkMesh
+foamRun
+touch case.foam
+paraview case.foam
