@@ -129,5 +129,6 @@ Continuity errors in the log came down to around 1e-11 by the end of the run, an
 
 ## Author
 
-Pratyush Dash
+**Pratyush Dash**
+
 B.Tech Chemical Engineering, KIIT University, Bhubaneswar
